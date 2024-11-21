@@ -31,8 +31,6 @@ int main()
 	//Dem chu so chia het cho 5
 	printf ("\n");
 	printf ("\nCac chu so chia het cho 5 trong %d la: %d",n,Dem_Chu_So_Chia_Het_Cho_5(n));
-
-
 	return 0;
 }
 int Tinh_Tong (int n)
