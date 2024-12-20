@@ -45,7 +45,6 @@ int main()
 		}
 		fclose(fp);
 	}
-	
 	printf("\nNhap duong dan can doc: ");
 	fflush(stdin);
 	gets(path2);
